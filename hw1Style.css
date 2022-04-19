@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica;
+}
+
+nav {
+  text-align: center;
+  background-color: lightgreen;
+}
+
+#flex-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: HoneyDew;
+  border: ridge;
+}
+
+.flex-item1{
+  width: 20%;
+  padding-right: 5%;
+}
+
+section{
+  background-color: AliceBlue;
+  margin-top: 1%;
+}
+
+h3{
+  padding-left: 1%;
+  text-decoration-line: underline;
+}
+
+h4{
+  padding-left: 1%;
+  margin-bottom: -1%;
+}
+
+.evidenziato{
+  font-weight: bold;
+}
+
+.sottolineato{
+  text-decoration: underline;
+}
+
+li{
+  font-weight: normal;
+  padding-right: 1%;
+}
+
+p{
+  padding-left: 1%;
+}
+a{
+  text-decoration-line: none;
+}
